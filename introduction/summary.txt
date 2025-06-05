@@ -1,0 +1,21 @@
+this was the introduction to data structure and algorithm. 
+why they are so important and useful in software development
+
+data structure is the way which data are organized in a computer for effiency.
+
+algorithm is the step by step process of performing a task...
+
+he give alot of examples and usecases of  data structure and algorithm...
+why it's vital to master data structure and algorithm for software developers...
+
+data structure can be divided into:
+  1. primitive data
+  2. Non-primitive data
+
+algorithm can be divided into:
+
+  1.Dynamic algorithm
+  2. Recursive algorithm
+  3. Greedy algorithm
+  4. Divide and conquer algorithm
+  5. 
